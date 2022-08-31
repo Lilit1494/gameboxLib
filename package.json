@@ -1,7 +1,7 @@
 {
   "name": "@lilit1494/gameboxlib",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Lilit1494"
+    "@Lilit1494:registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.1",
   "description": "A simple template for a custom React component library",
